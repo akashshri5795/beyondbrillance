@@ -3,6 +3,8 @@ import cardOne from "../../../../assets/images/catalogue-page-images/subject-car
 import cardTwo from "../../../../assets/images/catalogue-page-images/subject-cards-images/2.png";
 import cardThree from "../../../../assets/images/catalogue-page-images/subject-cards-images/3.png";
 import cardFour from "../../../../assets/images/catalogue-page-images/subject-cards-images/4.png";
+import cardFive from "../../../../assets/images/catalogue-page-images/subject-cards-images/5.png";
+import cardSix from "../../../../assets/images/catalogue-page-images/subject-cards-images/6.png";
 
 
 import boardIcon from "../../../../assets/images/catalogue-page-images/subject-cards-images/board.png";
@@ -36,7 +38,7 @@ export const subjectCards = [
     },
     {
         image: cardTwo,
-        subjectName: "Computer"
+        subjectName: "Mathematics"
     },
     {
         image: cardThree,
@@ -44,31 +46,15 @@ export const subjectCards = [
     },
     {
         image: cardFour,
-        subjectName: "Enviornmental Studies"
+        subjectName: "Computer"
     },
     {
-        image: cardThree,
-        subjectName: "English"
-    },
-    {
-        image: cardOne,
+        image: cardFive,
         subjectName: "General Knowledge"
     },
     {
-        image: cardTwo,
-        subjectName: "Handwriting"
-    },
-    {
-        image: cardThree,
+        image: cardSix,
         subjectName: "Hindi"
-    },
-    {
-        image: cardTwo,
-        subjectName: "Mathematics"
-    },
-    {
-        image: cardOne,
-        subjectName: "English"
     },
 ]
 
